@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f271cda4-18b8-405e-9715-4a9897c204a2" name="デフォルト変更リスト" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.mixi-internship.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mixi-internship.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ueda/Boat_PhotonTest/Scripts.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/unity/mixi-internship/Assets/nishida/scene_nishida/Start_nishida.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/unity/mixi-internship/ProjectSettings/QualitySettings.asset" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Stylized Water For URP/Shaders/Toon_DoubleShadeWithFeather.shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jXIDCfpJoGbRudahtSip3Qi7W3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Desktop\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f271cda4-18b8-405e-9715-4a9897c204a2" name="デフォルト変更リスト" comment="" />
+      <created>1603943889069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603943889069</updated>
+      <workItem from="1603943892609" duration="5284000" />
+      <workItem from="1603961457589" duration="1883000" />
+      <workItem from="1604057820861" duration="2954000" />
+      <workItem from="1604122395601" duration="453000" />
+      <workItem from="1604228597883" duration="3512000" />
+    </task>
+    <task id="LOCAL-00001" summary="マテリアルを変えた（小南）">
+      <created>1604236168389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604236168389</updated>
+    </task>
+    <task id="LOCAL-00002" summary="追加（小南）">
+      <created>1604236212499</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604236212499</updated>
+    </task>
+    <task id="LOCAL-00003" summary="フォント変えた">
+      <created>1604239195762</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604239195762</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="マテリアルを変えた（小南）" />
+    <MESSAGE value="追加（小南）" />
+    <MESSAGE value="フォント変えた" />
+    <option name="LAST_COMMIT_MESSAGE" value="フォント変えた" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="231" key="RollbackChangesDialog" timestamp="1604240073316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="231" key="RollbackChangesDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604240073316" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604239209641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="261" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@-1920.8.1920.1040" timestamp="1604236219454" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604239209641" />
+    <state x="761" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604238978179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.8.1920.1040@0.0.1920.1040" timestamp="1604238978179" />
+  </component>
+</project>
